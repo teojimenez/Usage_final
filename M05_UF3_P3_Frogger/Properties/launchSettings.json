@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "M05_UF3_P3_Frogger": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

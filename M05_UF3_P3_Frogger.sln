@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M05_UF3_P3_Frogger", "M05_UF3_P3_Frogger\M05_UF3_P3_Frogger.csproj", "{58CB1F6F-C02D-42B7-A3FC-77409C9AF0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CB1F6F-C02D-42B7-A3FC-77409C9AF0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB1F6F-C02D-42B7-A3FC-77409C9AF0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB1F6F-C02D-42B7-A3FC-77409C9AF0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB1F6F-C02D-42B7-A3FC-77409C9AF0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452D6F8D-CE4B-44BF-A5AD-CCEA5FCCD544}
+	EndGlobalSection
+EndGlobal
